@@ -1,0 +1,1 @@
+c\ programming\ workplace.code-workspace  lets.txt  practice.c	practice.exe
